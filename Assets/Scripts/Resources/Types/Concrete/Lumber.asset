@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fe21e0e83745c442a970665a4a52c85, type: 3}
+  m_Name: Lumber
+  m_EditorClassIdentifier: 
+  resourceSprite: {fileID: 21300000, guid: ee8ac9c8824ed3a41a3e5bf7ea63ba36, type: 3}
+  droppedResource: {fileID: 4728883304037076940, guid: f8ee26fe9a744064ab54743e3933e93e,
+    type: 3}
