@@ -1,4 +1,4 @@
-# Збір ресурсів
+# Збір ресурсів та відкриття нових островків
 https://github.com/user-attachments/assets/8e84362f-54c5-4769-b048-6eceb70e5d9a
 
 https://github.com/user-attachments/assets/13961b68-1b30-48bc-8718-b1665339720c
